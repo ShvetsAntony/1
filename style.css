@@ -1,0 +1,28 @@
+.wrapper{
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
+.head{
+     background: #BDB76B;
+    height: 200px;
+}
+
+.midle{
+    padding-bottom: 200px;
+}
+
+.content{
+     background: #FFE4C4;
+    height: 450px;
+}
+
+#footer{
+    background: #666;
+    height: 200px;
+    margin-top: -200px;
+}
+
+h2{
+    margin: 0px;
+}
